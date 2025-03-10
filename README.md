@@ -5,7 +5,7 @@
 # Descrição
 Página Flex 3 HTML com vinculo ao Github desenvolvido durante a disciplina de Linguagem de Marcação da escola SENAI de Jandira.
 
-# Tecnologias*
+# Tecnologias
 * HTML
 * CSS
 * Markdown
